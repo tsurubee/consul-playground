@@ -1,0 +1,6 @@
+{
+   "datacenter": "test-dc"
+  ,"data_dir":   "/tmp/data"
+  ,"server": false
+  ,"enable_script_checks": true
+}

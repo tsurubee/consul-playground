@@ -1,0 +1,7 @@
+{
+   "datacenter": "test-dc"
+  ,"data_dir":   "/tmp/data"
+  ,"server": true
+  ,"bootstrap_expect": 1
+  ,"enable_script_checks": true
+}
